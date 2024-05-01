@@ -45,7 +45,6 @@ SELECT
 
 --Pergunta 2: Qual a receita média por aluno ?
 SELECT (SELECT 
-	(SELECT coalesce(SUM(valor_multa),0) FROM emprestimo) + 
     (SELECT coalesce(SUM(valor_pag_matricula),0) FROM aluno) + 
     (SELECT COALESCE(sum(total), 0) from (SELECT pe.*,(SELECT(sum(custo))
    					from atividade_extracurricular as ae

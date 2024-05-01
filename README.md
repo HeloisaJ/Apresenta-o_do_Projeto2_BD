@@ -16,4 +16,4 @@ Além disso, está disponível nesse Github o roteiro da apresentação do Pitch
 
 ## Easter Egg
 
-Nosso Easter Egg foi a adição de eventos ao banco de dados, permitindo a EducaLivros mapear os lucros e os gastos de palestras. 
+Nosso Easter Egg foi a adição de eventos ao banco de dados, permitindo a EducaLivros mapear os lucros e os gastos com palestras. Essas palestras podem ser direcionadas tanto a alunos, quanto a responsáveis e outros membros da instituição. Eventualmente os ingressos podem ser vendidos a pessoas fora da instituição e assim, servindo como um atrativo para essas pessoas conhecerem o EducaLivros.
