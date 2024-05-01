@@ -23,8 +23,8 @@ insert into pessoa values
 
 insert into aluno values
 ('7', '39487', 'false', '2024-05-20', '1000', 'mensal', 'débito', '2024-04-30', '1'),
-('1', '39488', 'true', '2024-07-30', '6000', 'semestral', 'crédito', '2024-04-30','3'),
-('8', '39489', 'true', '2024-03-15', '12000', 'anual', 'dinheiro', '2024-04-30','2'),
+('1', '39488', 'true', '2024-07-30', '5400', 'semestral', 'crédito', '2024-04-30','3'),
+('8', '39489', 'true', '2024-03-15', '9600', 'anual', 'dinheiro', '2024-04-30','2'),
 ('5', '39490', 'false', '2024-09-10', '1000', 'mensal', 'débito', '2024-04-29','4');
 
 insert into professor values
